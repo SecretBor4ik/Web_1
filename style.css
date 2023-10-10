@@ -1,0 +1,154 @@
+.text 
+{
+  font-size: 30px; 
+}
+h1
+{
+  color: rgb(228, 191, 92);
+  text-align: center;
+  background-color: #270303;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  margin-top: 0px;
+  font-size: 70px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+table
+{
+  color: rgb(228, 191, 92);
+  background-color: #270303;
+  font-size: 30px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+body
+{
+    background: rgb(59, 29, 27);
+    background: linear-gradient(0deg, rgb(22, 5, 5) 0%, rgb(54, 19, 19) 100%);
+}
+h2
+{
+  color: rgb(228, 191, 92);
+  text-align: center;
+  font-size: 40px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+h3
+{
+  color: rgb(228, 191, 92);
+  text-align: center;
+  font-size: 40px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+h4
+{
+  color: rgb(228, 191, 92);
+  text-align: center;
+  font-size: 40px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+h5
+{
+  color: rgb(228, 191, 92);
+  text-align: center;
+  font-size: 40px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.p1 
+{
+  color: rgb(250, 224, 152);
+  text-align: center;
+  font-size: 25px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.p2
+{
+  color: rgb(250, 224, 152);
+  font-size: 25px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.center-img {
+  border: 5px solid #270303;
+  border-radius: 4px;
+  width: 30%;
+  display: block;
+  margin: 0 auto;
+}
+.img1
+{
+  border: 5px solid #110000;
+  border-radius: 4px;
+  display: block;
+  margin: 0 auto;
+}
+ul.a 
+{
+  color: rgb(250, 224, 152);
+  font-size: 25px;
+  display: inline-block;
+  font-family: Arial, Helvetica, sans-serif;
+}
+div.t
+{
+  padding-top: 10px;
+  padding-right: 30px;
+  padding-bottom: 50px;
+  padding-left: 80px;
+}
+.center-im {
+  border: 5px solid #110000;
+  border-radius: 4px;
+  width: 40%;
+  display: block;
+  margin: 0 auto;
+}
+
+.gallary {
+  border: 5px solid #110000;
+  border-radius: 4px;
+  width: 20%;
+}
+a {
+  color: rgb(223, 152, 95);
+}
+footer { 
+  display: block;
+}
+.table-end
+{
+  color: rgb(228, 191, 92);
+  background-color: #270303;
+  font-size: 30px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+nav {
+  min-height: 32px;
+  height: 75px;
+}
+
+nav li {
+  float: left;
+  margin-right: 20px;
+  max-width: 250px;
+
+}
+
+nav a {
+  display: block;
+  color: rgb(228, 142, 92);
+  line-height: 2em;
+  font-weight: bold;
+  font-size: 30px;
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.container {
+  display: flex;
+  border:1px solid rgb(167, 134, 45);
+  background-color: #270303;
+  height: 70px;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+}
